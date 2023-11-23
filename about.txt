@@ -1,0 +1,11 @@
+есть локальный, но нет удаленного.
+
+1. создать репозиторий аналогичного назвни€ в Git
+2. перейти в этот репозиторий cd /путь
+3. в локальном сделать git init
+
+3. далее по маршруту комманд которые указаны в Git
+Еor push an existing repository from the command line
+git remote add origin git@github.com:romankibenko/petson.git
+  git branch -M main
+  git push -u origin main
