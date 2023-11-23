@@ -3,6 +3,8 @@
 1. создать репозиторий аналогичного назвни€ в Git
 2. перейти в этот репозиторий cd /путь
 3. в локальном сделать git init
+4. git add .
+5. git commit -m
 
 3. далее по маршруту комманд которые указаны в Git
 Еor push an existing repository from the command line
